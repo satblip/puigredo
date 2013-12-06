@@ -1,0 +1,204 @@
+ @font-face{
+font-family: bebas;
+src: url('./font/bebas-neue.ttf'),
+     url('./font/bebas-neue.eot'); /* IE9 */
+} 
+ @font-face{
+font-family: lulu;
+src: url('../font/lulu.ttf'),
+} 
+
+body {
+	background-color: rgb(47, 44, 39);
+	font-family: "lulu",Arial,sans-serif;
+	font-size: 12px;
+	height: 100%;
+	width: 100%;
+	color: #515151;
+}
+
+
+
+.menu {
+	text-decoration: none;
+	display: block;
+	width: 650px;
+	position: relative;
+	left: 120px;
+	top:-8px;
+	margin: auto;
+	height: 15px;
+
+}
+
+
+ul {	
+	list-style: none;
+}
+
+li {
+	display: inline;
+	font-family: 'bebas',arial,serif;
+	color: rgb(243, 243, 242);
+	font-size: 13px;
+	padding-right: 15px;
+	line-height: 1.0;
+}
+
+
+.lang {
+	padding-right: 2px;
+	position: relative;
+	top:;
+	right: -100px;
+	top:2px;
+	font-size: 11px;
+}
+
+li:hover{
+	text-decoration: underline !important;
+	cursor: pointer;
+}
+
+.logo-menu {
+	background-color: rgb(47, 44, 39);
+	z-index: 7000;
+	position: absolute;
+	right: 0px;
+	top:-11px;
+
+}
+
+.logo1{
+	position: relative;
+	bottom:-10px;
+}
+
+.colonegauche {
+	width: 270px;
+	position: absolute;
+	left: 
+}
+
+.all {
+	position:absolute; 
+	top:50%;
+	height:500px; 
+	margin-top:-280px;
+	left:50%;
+	width:980px;
+	margin-left:-490px;
+}
+
+#page1 {
+	height: 500px;
+	width: 980px;
+	margin: auto;
+
+}
+
+#page2 {
+	background-image:url('../img/background/en_page_histoire.jpg');
+	height: 500px;
+	width: 980px;
+	margin: auto;
+}
+
+#page3 {
+	background-image:url('../img/background/en_page_wellness.jpg');
+	height: 500px;
+	width: 980px;
+	margin: auto;
+}
+
+#page4 {
+	background-image:url('../img/background/en_page_lamaison.jpg');
+	height: 500px;
+	width: 980px;
+	margin: auto;
+}
+
+#page5 {
+	background-image:url('../img/background/en_page_ledesign.jpg');
+	height: 500px;
+	width: 980px;
+	margin: auto;
+}
+
+#page6 {
+	background-image:url('../img/background/en_page_histoire.jpg');
+	height: 500px;
+	width: 980px;
+	margin: auto;
+}
+
+#page7 {
+	background-image:url('../img/background/en_page_contact3.jpg');
+	height: 500px;
+	width: 980px;
+	margin: auto;
+}
+
+.descr {
+	font-size: 15px;
+	font-family: Arial,sans-serif;
+	float: right;
+	display: block;
+	width: 608px;
+	height: 330px;
+	margin: 100px 50px 0px 0px;
+	position: relative;
+	bottom: 0;
+	z-index: 5;
+	overflow: auto;
+	background: transparent;
+
+}
+
+
+.gal {
+	padding-left: 7px;
+	padding-top: 7px;
+}
+
+.contact {
+	background: transparent;
+	float: right;
+
+}
+
+input {
+	background: transparent;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Arial, sans-serif;
+	font-size: 12px;
+	float: left;
+	margin-bottom: 15px;
+	background: transparent;
+	border-style: solid;
+	border-width: 1px;
+	padding: 4px;
+	display: inline-block;
+	width: 215px;
+}
+
+textarea {
+	height: 120px;
+	resize: none;
+	position: relative;
+	left: -2px;
+	background: transparent; 
+}
+
+ label {
+ 	float: right;
+ 	position: relative;
+ 	display: block;
+ 	right: 35px;
+ 	top: 5px;
+ 	vertical-align: top;
+ }
+
+ .meil {
+ 	top:32px;
+ 	right: 38px;
+ }

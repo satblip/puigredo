@@ -1,0 +1,1021 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"landing_web"
+			],
+			[
+				"profess",
+				"professionnelle"
+			],
+			[
+				"user",
+				"userCurency"
+			],
+			[
+				"tea",
+				"teachersForACourse"
+			],
+			[
+				"html",
+				"htmlTeachers"
+			],
+			[
+				"ht",
+				"htmlTeachers"
+			],
+			[
+				"courses",
+				"coursesDB"
+			],
+			[
+				"courseurl",
+				"courseulrpath"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"crea",
+				"createCanvasAccount"
+			],
+			[
+				"con",
+				"contact_email"
+			],
+			[
+				"ch",
+				"checkoutData"
+			],
+			[
+				"course_l",
+				"course_language"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"saml",
+				"sampleHTML"
+			],
+			[
+				"sampl",
+				"sampleHTML"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"hash",
+				"hashToken"
+			],
+			[
+				"course_path",
+				"course_urlpath"
+			],
+			[
+				"course_",
+				"course_name"
+			],
+			[
+				"course",
+				"course_code"
+			],
+			[
+				"Newsletter",
+				"newsletterSubscription"
+			],
+			[
+				"Click",
+				"Click_SAEOnline_front"
+			],
+			[
+				"catslid",
+				"catslideout"
+			],
+			[
+				"round",
+				"round_day"
+			],
+			[
+				"de",
+				"def	def … end"
+			],
+			[
+				"po",
+				"Portal"
+			],
+			[
+				"GBP",
+				"GBP"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"check",
+				"checkoutData"
+			],
+			[
+				"pa",
+				"paypalback"
+			],
+			[
+				"res",
+				"resetSliders"
+			],
+			[
+				"reset",
+				"resetCategories"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"credit",
+				"creditcard"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"cho",
+				"checkout_data"
+			],
+			[
+				"check_",
+				"check_card_form"
+			],
+			[
+				"cred",
+				"credit_card_number"
+			],
+			[
+				"read",
+				"readableDate"
+			],
+			[
+				"chec",
+				"checkout_data"
+			],
+			[
+				"step",
+				"step4_review_and_confirm"
+			],
+			[
+				"about",
+				"about_our_security_is_clicked"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"is",
+				"isPasswordValid"
+			],
+			[
+				"div",
+				"div_height_id"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"odd",
+				"oddoreven"
+			],
+			[
+				"ca",
+				"categorya1b1"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"course_d",
+				"course_difficulty_level_filter"
+			],
+			[
+				"re",
+				"remainingDays"
+			],
+			[
+				"sta",
+				"start_at"
+			],
+			[
+				"course_overview_",
+				"course_overview_description"
+			],
+			[
+				"M",
+				"MyString"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"cours",
+				"course_databse"
+			],
+			[
+				"cou",
+				"course_databse"
+			],
+			[
+				"list",
+				"list_new"
+			],
+			[
+				"co",
+				"country"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/core.js.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/welcome/index.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/environments/development.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/routes.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/workfiles/formsalesforce.html",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/models/course.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/database.yml",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/db/migrate/20130731130934_create_courses.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/environments/production.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/courses_controller.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/layouts/application.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/locales/en.yml",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline_backend/index.html",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/welcome_controller.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/application_controller.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/paypal_paiement_controller.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline_backend/js/core.js",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/application.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/helpers/application_helper.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/Gemfile",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/newrelic_rpm-3.6.7.152/lib/new_relic/agent/instrumentation/unicorn_instrumentation.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config.ru",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/design.js",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/landings.js",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/builder-3.1.4/test/test_eventbuilder.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/controllers/admin_controller.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/admin.css.scss",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/stylesheet.css.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/main.js.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/design.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/core.js.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline_backend/index",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/welcome/index.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/controllers/welcome_controller.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/routes.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/locales/en.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/welcome/get_marketo_token.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/user_mailer/welcome_email.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/controllers/courses_controller.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/mailers/user_mailer.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/user_mailer/welcome_email.text.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/welcome/get_marketo_token.json.jbuilder",
+		"/Users/satblip/Downloads/cv_zozor_images/cv_zozor.html",
+		"/Users/satblip/Desktop/student_2013-10-22.sql",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/locales/fr.yml",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/jquery.fancybox-1.3.4.css.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/stylesheet.css.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/config/newrelic.yml",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/workfiles/openclassroom",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/main.js",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/railties-4.0.0/lib/rails/templates/layouts/application.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/public/javascripts/translations.js",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/user_accounts_controller.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/user_mailer/welcome_email.text.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/user_mailer/welcome_email.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/welcome/send_welcome_email.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/mailers/user_mailer.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/jquery.fancybox-1.3.4.css",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/models/user_account.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/authorize_paiement_controller.rb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/workfiles/old SAE Bussiness div.rhtml",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/workfiles/SAEOnline_development_2013-09-10.sql",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/workfiles/checkoutinprogress.js",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/desktop.css.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/user_accounts/index.json.jbuilder",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/user_accounts/show.json.jbuilder",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/views/authorize_paiement/authorize_paiement.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/controllers/authorize_paiement.html.erb",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/.gitignore",
+		"/Users/satblip/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline_development_2013-08-30.sql",
+		"/Users/satblip/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/core.js",
+		"/Users/satblip/Dropbox/Satprod/Satprod new end 2013/site_edgeActions.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/courses/list.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/json-1.8.0/data/index.html",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/categories/list.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/railties-4.0.0/lib/rails/generators/rails/app/templates/gitignore",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/core.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/core.js.erb.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/course_sort.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/layouts/application.html.erb",
+		"/Users/satblip/Desktop/saeonline/index.html",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/Gemfile",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/rails-4.0.0/guides/code/getting_started/app/assets/stylesheets/application.css",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/application.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/desktop.css.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/stylesheet.css",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/toggle-switch.css",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/modernizr.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/javascripts/global/cours_filter.js",
+		"/Users/satblip/Desktop/saeonline 2/index.html",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/public/assets/application-0b29a1062fce4324c61db73057f3152d.css",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/vendor/bundle/gems/railties-4.0.0/lib/rails/templates/layouts/application.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/environments/development.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/environments/production.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/controllers/application_controller.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/stylesheet.css.erb.css",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/public/assets/application-000fc214a11db39f3b6d57e8db1224de.js",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/application.css",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/assets/stylesheets/welcome.css.scss",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/welcome/maintenance.html.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/db/migrate/20130731130934_create_courses.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/test/fixtures/courses.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/workfiles/untitled",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/views/courses/list.json.erb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config.ru",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/database.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/application.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/models/course.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/models/course_fee_overwrite.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/models/course_fee.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/models/category_b.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/app/models/category_a.rb",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/locales/fr.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/locales/es.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/locales/de.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/config/locales/po.yml",
+		"/Volumes/Lacie T2/Dropbox/Dropbox/Coding/ROR/SAEOnline/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"credit",
+			"newUser",
+			"username",
+			"reada",
+			"reade",
+			"price_with_curr",
+			"privacy",
+			"pros",
+			"privacy",
+			"en lign",
+			"privacy",
+			"privac",
+			"nav-close-btn",
+			"cat1_header_text",
+			"course_canvas_code",
+			"userCurency",
+			"main_content_content_right_image4",
+			"london",
+			"console.log",
+			"step4",
+			"check",
+			"timeout",
+			"proxy_read_timeout",
+			"passenger",
+			"plus",
+			"interests",
+			"cleanArray",
+			"interests",
+			"dataEdit",
+			"filters",
+			"applyFilter",
+			"applyTagFilter",
+			"tag",
+			"great",
+			"soon",
+			"great",
+			"orgsync",
+			"console",
+			"course_to_subrscibe",
+			"checkoutData['course_to_subrscibe']",
+			"checkoutData['course_to_subrscibe']['id']",
+			"classe",
+			"disabled",
+			"oddoreven",
+			"categorya1b1",
+			"category",
+			"main_content_content_right_image4",
+			"#main_content_content_right_image2",
+			"coursesFilters[\"sample\",",
+			"coursesFilters[\"sample\"]",
+			"coursesFilters",
+			"main_content_content_right_image4",
+			"faculty",
+			"courses",
+			"go_to",
+			"go",
+			"price",
+			"price_with",
+			"check",
+			"first",
+			"json",
+			"marketo",
+			"curre",
+			"device",
+			"#categories",
+			"getintakes",
+			"startDateChecked",
+			"checkoutData[\"selected_course\"]",
+			"courseFromCanvas",
+			"console",
+			"url_rewrite",
+			"enquire-now-button",
+			"reset",
+			"reset_discipline",
+			"nav_trigger",
+			"submit_new_user",
+			"contact",
+			"class",
+			"applyTagFilter",
+			"item",
+			"console",
+			"Sports_Business",
+			"icon",
+			"poney",
+			"console",
+			"console.log",
+			"console",
+			"saelogo",
+			"readable_date",
+			"active",
+			"applyTagFilter",
+			"oddoreven",
+			"oddOrEven",
+			"applytag",
+			"coursesFilters",
+			"discipline",
+			"catslid",
+			"opencateg",
+			"open",
+			"opencategories",
+			"categories",
+			"dynamic",
+			"readable",
+			"read",
+			"categories_selected",
+			"categories_selected_content",
+			"main_content",
+			"url_rewrite",
+			"url_rewirte",
+			"user_language",
+			"discipline",
+			"url_re",
+			"saelogo_landing_page",
+			"click_discipline",
+			"check",
+			"hidefilters",
+			"coursesFilters",
+			"cat_num_id",
+			"console.log",
+			"dynamic_inner_height",
+			"border-top .5s",
+			"courseFromCanvas",
+			"user",
+			"last_discipline",
+			"selector",
+			"div_all_courses_height",
+			"document",
+			"ok_go"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"coursesDataEdit",
+			"readableDate",
+			"polyglotLanguageSwitcher",
+			"language_switcher",
+			".jpg",
+			"coursesFilters",
+			"courses_filters",
+			"<%= asset_path 'discipline4.png' %>",
+			"png' %>",
+			"<%= asset_path '",
+			"",
+			"/assets",
+			"#courses_content",
+			"course_database",
+			"AKIAJ6DYDYGLMK",
+			"saeonline"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 284.0
+	},
+	"project": "puigredofinal.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"SAEOnline/app/views/welcome/index.html.erb"
+			],
+			[
+				"payp",
+				"SAEOnline/app/controllers/paypal_paiement_controller.rb"
+			],
+			[
+				"audio",
+				"SAEOnline/app/views/welcome/audio.html.erb"
+			],
+			[
+				"lan",
+				"SAEOnline/app/assets/javascripts/global/landings.js"
+			],
+			[
+				"welc",
+				"SAEOnline/app/controllers/welcome_controller.rb"
+			],
+			[
+				"core",
+				"SAEOnline/app/assets/javascripts/global/core.js.erb"
+			],
+			[
+				"app",
+				"SAEOnline/app/controllers/application_controller.rb"
+			],
+			[
+				"we",
+				"SAEOnline/app/controllers/welcome_controller.rb"
+			],
+			[
+				"fr.yml",
+				"SAEOnline/config/locales/fr.yml"
+			],
+			[
+				"en",
+				"SAEOnline/config/locales/en.yml"
+			],
+			[
+				"desi",
+				"SAEOnline/app/assets/javascripts/global/design.js"
+			],
+			[
+				"appl",
+				"SAEOnline/app/views/layouts/application.html.erb"
+			],
+			[
+				"prod",
+				"SAEOnline/config/environments/production.rb"
+			],
+			[
+				"deve",
+				"SAEOnline/config/environments/development.rb"
+			],
+			[
+				"route",
+				"SAEOnline/config/routes.rb"
+			],
+			[
+				"landin",
+				"SAEOnline/app/assets/javascripts/global/landings.js"
+			],
+			[
+				"course",
+				"SAEOnline/app/models/course.rb"
+			],
+			[
+				"welcom",
+				"SAEOnline/app/controllers/welcome_controller.rb"
+			],
+			[
+				"config.",
+				"SAEOnline/config.ru"
+			],
+			[
+				"unicorn",
+				"SAEOnline/vendor/bundle/gems/newrelic_rpm-3.6.7.152/lib/new_relic/agent/instrumentation/unicorn_instrumentation.rb"
+			],
+			[
+				"data",
+				"SAEOnline/config/database.yml"
+			],
+			[
+				"pro",
+				"SAEOnline/config/environments/production.rb"
+			],
+			[
+				"gemfil",
+				"SAEOnline/Gemfile"
+			],
+			[
+				"courses",
+				"SAEOnline/db/migrate/20130731130934_create_courses.rb"
+			],
+			[
+				"cours",
+				"SAEOnline/app/controllers/courses_controller.rb"
+			],
+			[
+				"main",
+				"SAEOnline/app/assets/javascripts/global/main.js.erb"
+			],
+			[
+				"inde",
+				"SAEOnline/app/views/welcome/index.html.erb"
+			],
+			[
+				"admin",
+				"SAEOnline/app/assets/stylesheets/admin.css.scss"
+			],
+			[
+				"",
+				"SAEOnline/app/controllers/admin_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"wel",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"get_marketo",
+				"app/views/welcome/get_marketo_token.json.jbuilder"
+			],
+			[
+				"userma",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"welco",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"fancy",
+				"app/assets/stylesheets/jquery.fancybox-1.3.4.css.erb"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/stylesheet.css.erb"
+			],
+			[
+				"fr",
+				"config/locales/fr.yml"
+			],
+			[
+				"payl",
+				"app/controllers/paypal_paiement_controller.rb"
+			],
+			[
+				"mai",
+				"app/assets/javascripts/global/main.js"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"applica",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"n",
+				"config/newrelic.yml"
+			],
+			[
+				"newre",
+				"config/newrelic.yml"
+			],
+			[
+				"tran",
+				"public/javascripts/translations.js"
+			],
+			[
+				"styl",
+				"app/assets/stylesheets/stylesheet.css.erb"
+			],
+			[
+				"user",
+				"app/controllers/user_accounts_controller.rb"
+			],
+			[
+				"des",
+				"app/assets/javascripts/global/design.js"
+			],
+			[
+				"show",
+				"app/views/user_accounts/show.json.jbuilder"
+			],
+			[
+				"desktop",
+				"app/assets/stylesheets/desktop.css.erb"
+			],
+			[
+				"autho",
+				"app/views/authorize_paiement/authorize_paiement.html.erb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"deskt",
+				"app/assets/stylesheets/desktop.css.erb"
+			],
+			[
+				"deskto",
+				"app/assets/stylesheets/desktop.css.erb"
+			],
+			[
+				"apple",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"desk",
+				"app/assets/stylesheets/desktop.css.erb"
+			],
+			[
+				"design",
+				"app/assets/javascripts/global/design.js"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applcation",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"html",
+				"vendor/bundle/gems/json-1.8.0/data/index.html"
+			],
+			[
+				"cata",
+				"app/models/category_a.rb"
+			],
+			[
+				"list",
+				"app/views/categories/list.html.erb"
+			],
+			[
+				"catego",
+				"app/controllers/categories_controller.rb"
+			],
+			[
+				"apppl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"styles",
+				"app/assets/stylesheets/stylesheet.css"
+			],
+			[
+				"sty",
+				"app/assets/stylesheets/stylesheet.css.erb"
+			],
+			[
+				"toggl",
+				"app/assets/stylesheets/toggle-switch.css"
+			],
+			[
+				"m",
+				"app/assets/javascripts/global/modernizr.js"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"styleshee",
+				"app/assets/stylesheets/stylesheet.css.erb"
+			],
+			[
+				"de",
+				"config/environments/development.rb"
+			],
+			[
+				"mode",
+				"app/assets/javascripts/global/modernizr.js"
+			],
+			[
+				"welcome",
+				"app/assets/stylesheets/welcome.css.scss"
+			],
+			[
+				"mainten",
+				"app/views/welcome/maintenance.html.erb"
+			],
+			[
+				"coursesort",
+				"app/assets/javascripts/global/course_sort.js"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"config",
+				"config.ru"
+			],
+			[
+				"d",
+				"config/database.yml"
+			],
+			[
+				"ind",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"course_fe",
+				"app/models/course_fee_overwrite.rb"
+			],
+			[
+				"cat",
+				"app/models/category_b.rb"
+			],
+			[
+				"cate",
+				"app/models/category_a.rb"
+			],
+			[
+				"cour",
+				"app/models/course.rb"
+			],
+			[
+				"coursefee",
+				"app/models/course_fee_overwrite.rb"
+			],
+			[
+				"da",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
