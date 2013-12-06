@@ -1,5 +1,7 @@
 $(document).ready(function(e) {
 
+	$('#website').show();
+
 	// Core
 	var loadPage = function(a,b,c,d,e,f,g){
 		$('#page' + b +', #page' + c +', #page' + d +', #page' + e +', #page' + f +', #page' + g).hide();

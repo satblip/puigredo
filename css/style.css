@@ -207,6 +207,7 @@ textarea {
 
  .contactlang {
  	position: relative;
+ 	width: 300px;
 	left: 629px;
  	top:115px;
  }
