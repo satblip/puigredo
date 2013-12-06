@@ -32,8 +32,16 @@ $(document).ready(function(e) {
 		loadPage(7,1,2,3,4,5,6);
 	});
 
+	var contact_triggered = 0;
 	$('#contact_box_link').click(function(){
-		$('#contact_box_content').show();
+		if (contact_triggered == 0){
+			$('#contact_box_content').show();
+			contact_triggered = 1;
+		} else {
+			$('#contact_box_content').hide();
+			contact_triggered = 0;
+		}
+		
 	});
 
 	$('.fontawesome-remove').click(function(){
