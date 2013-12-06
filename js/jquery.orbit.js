@@ -21,7 +21,7 @@
             startClockOnMouseOut: false, 		// if clock should start on MouseOut
             startClockOnMouseOutAfter: 1000, 	// how long after MouseOut should the timer start again
             directionalNav: true, 				// manual advancing directional navs
-            captions: true, 					// do you want captions?
+            captions: false, 					// do you want captions?
             captionAnimation: 'fade', 			// fade, slideOpen, none
             captionAnimationSpeed: 600, 		// if so how quickly should they animate in
             bullets: false,						// true or false to activate the bullet navigation

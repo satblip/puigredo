@@ -1,4 +1,9 @@
+
+var contact_triggered = 0;
+
 $(document).ready(function(e) {
+
+	$('#website').show();
 
 	// Core
 	var loadPage = function(a,b,c,d,e,f,g){
@@ -32,7 +37,6 @@ $(document).ready(function(e) {
 		loadPage(7,1,2,3,4,5,6);
 	});
 
-	var contact_triggered = 0;
 	$('#contact_box_link').click(function(){
 		if (contact_triggered == 0){
 			$('#contact_box_content').show();
@@ -46,6 +50,7 @@ $(document).ready(function(e) {
 
 	$('.fontawesome-remove').click(function(){
 		$('#contact_box_content').hide();
+		contact_triggered = 0;
 	});
 
 	$('#chatsubmit').click(function(e){
@@ -103,4 +108,5 @@ $(document).click(function(e){
   if($(e.target).closest("#contact_box_link").length != 0) return false;
   if($(e.target).closest("#contact_box_content").length != 0) return false;
   $('#contact_box_content').hide();
+  contact_triggered = 0;
 });
