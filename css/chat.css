@@ -5,6 +5,15 @@
   font-family: 'FontAwesome', sans-serif;
 }
 
+.littleinfos{
+    top: 0;
+    font-size: 11px;
+}
+
+.padding{
+    font-size: 4px;
+}
+
 #contact_box_link {
 	bottom: 0px;
 	position: fixed;
