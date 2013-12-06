@@ -209,6 +209,7 @@ textarea {
  	position: relative;
 	left: 635px;
  	top:95px;
+ 	width: 300px !important;
  }
 
  .drap {
