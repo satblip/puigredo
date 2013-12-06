@@ -31,16 +31,14 @@
 
 #contact_box_link_text{
 	display: inline-block;
-    right : 46px;
+    right : 48px;
     position: fixed;
 }
 
-.fontawesome-envelope {
-    color: rgba(47, 44, 39, 1.0000);
-    font-size: 20px;
+.envelope {
     position: absolute;
-    top:5px;
-    left: 18px;
+    top:1px;
+    left: 11px;
 }
 
 #contact_box_content{
