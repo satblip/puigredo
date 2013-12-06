@@ -143,7 +143,7 @@ li:hover{
 
 .descr {
 	font-size: 15px;
-	font-family: Arial,sans-serif;
+	font-family: "lulu",Arial,sans-serif;
 	float: right;
 	display: block;
 	width: 608px;
@@ -207,12 +207,12 @@ textarea {
 
  .contactlang {
  	position: relative;
-	left: 635px;
- 	top:95px;
+	left: 629px;
+ 	top:115px;
  }
 
  .drap {
  	position: relative;
- 	left:50px;
+ 	left:75px;
  	top:-3px;
  }

@@ -11,7 +11,23 @@
 }
 
 .padding{
-    font-size: 4px;
+    font-size: 2px;
+}
+
+.services {
+    font-size: 15px;
+    font-family: "lulu",Arial,sans-serif;
+    float: right;
+    display: block;
+    width: 608px;
+    height: 400px;
+    margin: 100px 50px 0px 0px;
+    position: relative;
+    bottom: 0;
+    z-index: 5;
+    overflow: auto;
+    background: transparent;
+
 }
 
 #contact_box_link {
@@ -39,7 +55,7 @@
 }
 
 #contact_box_link_text{
-	display: inline-block;
+	bottom: 5px;
     right : 48px;
     position: fixed;
 }
@@ -89,11 +105,14 @@
     border-color: rgba(47, 44, 39, 1.0000);
 }
 
-#chatmessage{
+textarea#chatmessage{
     width: 224px;
     left:-10px;
     border-color: rgba(47, 44, 39, 1.0000);
-    -moz-box-shadow: inset 0px 0px 0px 0px
+    border-width: 1px;
+    border-style: solid;
+    font-family: inherit;
+    font-size: 12px;
 }
 
 #chatsubmit{
@@ -133,7 +152,10 @@
     width: 283px;
     left:0px;
     border-color: rgba(47, 44, 39, 1.0000);
-    -moz-box-shadow: inset 0px 0px 0px 0px;
+    border-width: 1px;
+    border-style: solid;
+    font-family: inherit;
+    font-size: 12px;
 }
 
 #contactsubmit{
