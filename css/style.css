@@ -137,6 +137,8 @@ li:hover{
 	height: 500px;
 	width: 980px;
 	margin: auto;
+	position: relative;
+	top: -12px;
 }
 
 .descr {
@@ -201,4 +203,16 @@ textarea {
  .meil {
  	top:32px;
  	right: 38px;
+ }
+
+ .contactlang {
+ 	position: relative;
+	left: 635px;
+ 	top:95px;
+ }
+
+ .drap {
+ 	position: relative;
+ 	left:50px;
+ 	top:-3px;
  }
