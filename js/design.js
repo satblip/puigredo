@@ -3,7 +3,7 @@ var contact_triggered = 0;
 
 $(document).ready(function(e) {
 
-	$('#website').show();
+	// $('#website').show();
 
 	// Core
 	var loadPage = function(a,b,c,d,e,f,g){
@@ -15,50 +15,57 @@ $(document).ready(function(e) {
 	// Triggers
 	$('#home_link').click(function(){
 		loadPage(1,2,3,4,5,6,7);
+		_gaq.push(['_trackEvent', 'Page_Home', 'load']);
 	});
 	$('#description_link').click(function(){
 		loadPage(2,1,3,4,5,6,7);
+		_gaq.push(['_trackEvent', 'Page_Description', 'load']);
 	});
-
 	$('#wellness_link').click(function(){
 		loadPage(3,4,5,6,7,1,2);
+		_gaq.push(['_trackEvent', 'Page_Wellness', 'load']);
 	});
-
 	$('#house_link').click(function(){
 		loadPage(4,5,6,7,1,2,3);
+		_gaq.push(['_trackEvent', 'Page_House', 'load']);
 	});
 	$('#design_link').click(function(){
 		loadPage(5,6,7,1,2,3,4);
+		_gaq.push(['_trackEvent', 'Page_Design', 'load']);
 	});
 	$('#services_link').click(function(){
 		loadPage(6,5,7,1,2,3,4);
+		_gaq.push(['_trackEvent', 'Page_Services', 'load']);
 	});
 	$('#contact_link').click(function(){
 		loadPage(7,1,2,3,4,5,6);
+		_gaq.push(['_trackEvent', 'Page_Contact', 'load']);
 	});
 
-	$('#contact_box_link').click(function(){
-		if (contact_triggered == 0){
-			$('#contact_box_content').show();
-			contact_triggered = 1;
-		} else {
-			$('#contact_box_content').hide();
-			contact_triggered = 0;
-		}
+	// $('#contact_box_link').click(function(){
+	// 	if (contact_triggered == 0){
+	// 		$('#contact_box_content').show();
+	// 		_gaq.push(['_trackEvent', 'Contact_Box', 'load']);
+	// 		contact_triggered = 1;
+	// 	} else {
+	// 		$('#contact_box_content').hide();
+	// 		contact_triggered = 0;
+	// 	}
 		
-	});
+	// });
 
 	$('.fontawesome-remove').click(function(){
 		$('#contact_box_content').hide();
 		contact_triggered = 0;
 	});
 
-	$('#chatsubmit').click(function(e){
-		var chat_name = $('#chatname').val();
-		var chat_email = $('#chatemail').val();
-		var chat_message = $('#chatmessage').val();
+	$('#directsubmit').click(function(e){
+		_gaq.push(['_trackEvent', 'Send_message_with_contact_box', 'load']);
+		var chat_name = "DIRECT_EMAIL";
+		var chat_email = $('#directemail').val();
+		var chat_message = "DIRECT_EMAIL";
 		e.preventDefault();
-		$('#contact_form_block').hide();
+		// $('#contact_form_block').hide();
 		$.ajax('http://ec2-54-194-41-182.eu-west-1.compute.amazonaws.com/mailer/', {
 	      type: 'GET',
 	      data: { "name": chat_name,
@@ -66,7 +73,10 @@ $(document).ready(function(e) {
 	        "message": chat_message
 	      },
 	      success: function(response) {
-	        $('#contact_confirm_block').fadeIn();
+	        // $('#contact_confirm_block').fadeIn();
+	        $('#contact_box_link').fadeOut();
+
+	        $('#contact_box_link_confirm').fadeIn();
 	        console.log("mail contact OK",response);
 	        return false;
 	      },
@@ -78,6 +88,7 @@ $(document).ready(function(e) {
 	})
 
 	$('#contactsubmit').click(function(e){
+		_gaq.push(['_trackEvent', 'Send_message_with_contact_page', 'load']);
 		var chat_name = $('#contactname').val();
 		var chat_email = $('#contactemail').val();
 		var chat_message = $('#contactmessage').val();

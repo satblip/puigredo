@@ -34,19 +34,32 @@
 	bottom: 0px;
 	position: fixed;
 	right: 30px;
-	width: 120px;
-    height: 30px;
+	width: 200px;
+    height: 60px;
     background: rgba(243, 243, 243, 1.0000);
     border: solid rgba(241, 241, 241, 1.0000) 2px;
     text-align: center;
-    cursor: pointer;
+    z-index: 10;
+}
+
+#contact_box_link_confirm {
+    bottom: 0px;
+    position: fixed;
+    right: 30px;
+    width: 200px;
+    height: 22px;
+    background: rgba(243, 243, 243, 1.0000);
+    border: solid rgba(241, 241, 241, 1.0000) 2px;
+    text-align: center;
+    z-index: 10;
 }
 
 #text_contact_button{
 	color: rgba(47, 44, 39, 1.0000);
-	margin-top: 7px;
+	margin-top: 4px;
+    margin-bottom: 4px;
 	font-family: Arial;
-	font-size: 13pt;
+	font-size: 10pt;
 }
 
 #contact_box_link_icon{
@@ -173,4 +186,8 @@ textarea#chatmessage{
     width: 250px;
     height: 250px;
     color: rgba(47, 44, 39, 1.0000);
+}
+
+#directcontact{
+    margin-left: 10px;
 }

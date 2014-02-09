@@ -180,7 +180,6 @@ input {
 	border-width: 1px;
 	padding: 4px;
 	display: inline-block;
-	width: 215px;
 }
 
 textarea {
@@ -207,8 +206,8 @@ textarea {
 
  .contactlang {
  	position: relative;
-	left: 635px;
- 	top:95px;
+	left: 626px;
+ 	top:115px;
  	width: 300px !important;
  }
 
@@ -216,4 +215,15 @@ textarea {
  	position: relative;
  	left:75px;
  	top:-3px;
+ }
+
+ #keywords{
+ 	color: rgb(47, 44, 39);
+ 	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+
+	/* Rules below not implemented in browsers yet */
+	-o-user-select: none;
+	user-select: none;
  }
