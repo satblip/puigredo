@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-left"
+			],
+			[
 				"la",
 				"landing_web"
 			],
@@ -259,7 +263,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 35312,
+				"buffer_size": 35711,
 				"line_ending": "Unix"
 			}
 		},
@@ -267,15 +271,23 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 3114,
+				"buffer_size": 3326,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/chat.css",
+			"settings":
+			{
+				"buffer_size": 3333,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "js/design.js",
 			"settings":
 			{
-				"buffer_size": 3297,
+				"buffer_size": 3416,
 				"line_ending": "Unix"
 			}
 		}
@@ -428,7 +440,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 45.0
 	},
 	"find_in_files":
 	{
@@ -443,6 +455,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"%26",
+			"%3D",
+			"%5C%2F",
+			"contact_box_link",
+			"#contact_box_link",
 			"credit",
 			"newUser",
 			"username",
@@ -565,12 +582,7 @@
 			"dynamic_inner_height",
 			"border-top .5s",
 			"courseFromCanvas",
-			"user",
-			"last_discipline",
-			"selector",
-			"div_all_courses_height",
-			"document",
-			"ok_go"
+			"user"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -578,6 +590,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"&",
+			"=",
+			"/",
 			"coursesDataEdit",
 			"readableDate",
 			"polyglotLanguageSwitcher",
@@ -613,15 +628,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 35312,
+						"buffer_size": 35711,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								752,
-								752
+								32801,
+								32801
 							]
 						],
 						"settings":
@@ -630,9 +645,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 7689.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -641,15 +657,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3114,
+						"buffer_size": 3326,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3087,
-								3087
+								2633,
+								2633
 							]
 						],
 						"settings":
@@ -657,27 +673,58 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 2645.0,
+						"translation.x": -0.0,
+						"translation.y": 2278.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "js/design.js",
+					"file": "css/chat.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3297,
+						"buffer_size": 3333,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/design.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2241,
+								2157
 							]
 						],
 						"settings":
@@ -686,9 +733,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 830.0,
+						"translation.y": 763.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -696,7 +744,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"input":
 	{
@@ -729,10 +777,14 @@
 	{
 		"height": 284.0
 	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"project": "puigredofinal.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 86.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -740,6 +792,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"chat",
+				"Puig redo final/css/chat.css"
+			],
 			[
 				"des",
 				"Puig redo final/js/design.js"

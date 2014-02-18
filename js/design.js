@@ -1,9 +1,11 @@
 
-var contact_triggered = 0;
+// var contact_triggered = 0;
+var agency_email = "info@puigredo.com";
+var agency_name = "Puig Redo Info";
 
 $(document).ready(function(e) {
 
-	// $('#website').show();
+
 
 	// Core
 	var loadPage = function(a,b,c,d,e,f,g){
@@ -68,14 +70,15 @@ $(document).ready(function(e) {
 		// $('#contact_form_block').hide();
 		$.ajax('http://ec2-54-194-41-182.eu-west-1.compute.amazonaws.com/mailer/', {
 	      type: 'GET',
-	      data: { "name": chat_name,
+	      data: { "agency_email": agency_email,
+	      	"agency_name": agency_name,
+	      	"name": chat_name,
 	        "email": chat_email,
 	        "message": chat_message
 	      },
 	      success: function(response) {
 	        // $('#contact_confirm_block').fadeIn();
 	        $('#contact_box_link').fadeOut();
-
 	        $('#contact_box_link_confirm').fadeIn();
 	        console.log("mail contact OK",response);
 	        return false;
@@ -96,7 +99,9 @@ $(document).ready(function(e) {
 		$('#contact_page_form_block').hide();
 		$.ajax('http://ec2-54-194-41-182.eu-west-1.compute.amazonaws.com/mailer/', {
 	      type: 'GET',
-	      data: { "name": chat_name,
+	      data: { "agency_email": agency_email,
+	      	"agency_name": agency_name,
+	      	"name": chat_name,
 	        "email": chat_email,
 	        "message": chat_message
 	      },
@@ -115,9 +120,9 @@ $(document).ready(function(e) {
 
 });
 
-$(document).click(function(e){
-  if($(e.target).closest("#contact_box_link").length != 0) return false;
-  if($(e.target).closest("#contact_box_content").length != 0) return false;
-  $('#contact_box_content').hide();
-  contact_triggered = 0;
-});
+// $(document).click(function(e){
+//   if($(e.target).closest("#contact_box_link").length != 0) return false;
+//   if($(e.target).closest("#contact_box_content").length != 0) return false;
+//   $('#contact_box_content').hide();
+//   contact_triggered = 0;
+// });
