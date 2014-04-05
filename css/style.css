@@ -1,9 +1,11 @@
- @font-face{
+/* @font-face{
 font-family: bebas;
 src: url('./font/bebas-neue.ttf'),
      url('./font/bebas-neue.eot'); /* IE9 */
 } 
- @font-face{
+*/
+
+@font-face{
 font-family: lulu;
 src: url('../font/lulu.ttf'),
 } 
@@ -38,13 +40,18 @@ ul {
 
 li {
 	display: inline;
-	font-family: 'bebas',arial,serif;
+/*	font-family: 'bebas',arial,serif;*/
 	color: rgb(243, 243, 242);
 	font-size: 13px;
 	padding-right: 15px;
 	line-height: 1.0;
 }
 
+.field_with_errors{
+	-webkit-box-shadow: 0 0 0 5px rgba(203, 25, 19, 0.65) !important;
+    -moz-box-shadow: 0 0 0 5px rgba(203, 25, 19, 0.65) !important;
+    box-shadow: 0 0 0 5px rgba(203, 25, 19, 0.65) !important;
+}
 
 .lang {
 	padding-right: 2px;
@@ -226,4 +233,8 @@ textarea {
 	/* Rules below not implemented in browsers yet */
 	-o-user-select: none;
 	user-select: none;
+ }
+
+ #agency_contact{
+ 	color: #ffffff;
  }
